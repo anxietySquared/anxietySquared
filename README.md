@@ -1,7 +1,4 @@
-# ` a n x i e t y `
-# ` n n x i e t y `
-# ` x x x i e t y `
-# ` i i i i e t y `
-# ` e e e e e t y `
-# ` t t t t t t y `
-# ` y y y y y y y `
+# About Me
+
+I have a few years of experience developing in a proprietary full-stack web application / RDBMS system, but I never started with the basics.
+I'm hoping to work through The Odin Project to pick up the fundamentals in more broadly-used languages.
